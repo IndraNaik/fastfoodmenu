@@ -1,0 +1,1 @@
+public interface MenuRepository extends JpaRepository<MenuItem, Long> {}
